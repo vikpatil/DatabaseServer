@@ -1,3 +1,3 @@
 # DatabaseServer
 
-Developing Database Server with Java.
+Developing Database Server Application with Java.
